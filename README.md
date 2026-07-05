@@ -1,22 +1,21 @@
 # Hi there, I'm Shakiba! 👋
 
 ### 🚀 About Me
-I am a passionate learner and aspiring developer who loves exploring the world of programming. Currently, I am diving deep into **Python** and mastering the art of **Web Scraping** and **Data Automation**. 
+I am a passionate learner and aspiring developer focused on the intersection of **Artificial Intelligence** and **Robotics**. I believe that data is the fuel for intelligent systems, and mastering how to acquire and process it is my first step toward building autonomous agents.
 
-I believe that coding is not just about writing lines of text, but about solving problems and building something meaningful from scratch.
-
-- 🔭 I’m currently working on: **Web Scraping projects (like my Book Price Scraper)**
-- 🌱 I’m currently learning: **Advanced Python, Selenium, and Data Analysis with Pandas**
-- ⚡ Fun fact: I love seeing how data moves from a website to a structured Excel file!
+Currently, I am building my foundation by mastering:
+- 🤖 **Robotics & AI Fundamentals:** Exploring how intelligent systems interact with the world.
+- 🐍 **Advanced Python:** Developing the logic required for complex automation and AI models.
+- 🕸️ **Data Acquisition (Web Scraping):** Mastering tools like Selenium and BeautifulSoup to gather the massive datasets needed for training AI.
+- ⚙️ **Automation:** Building bots that can perform complex tasks autonomously.
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&forager=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/BeautifulSoup-4589FF?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -25,7 +24,7 @@ I believe that coding is not just about writing lines of text, but about solving
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakibad3v&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakibad3v&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibad3v&layout=compact&theme=radical" />
 </p>
 
